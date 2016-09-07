@@ -1,0 +1,13 @@
+---
+builds:
+  366ca75e-4e1d-46e1-a60b-a34ce0029dd7:
+    version: '3.6'
+  124472ee-6264-4ffe-9e4a-000e02fd7666:
+    version: '3.7'
+  2a1d35fd-03bf-4ed5-a925-79f358a680c7:
+    version: 3.7.1
+  2a82ce6f-8466-459f-9640-032283e6b03b:
+    version: '3.8'
+  9936b6ba-39c2-43bf-9c69-f811daa902cb:
+    version: 3.8.1
+format-version: '2'
