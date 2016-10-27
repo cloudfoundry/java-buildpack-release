@@ -3,6 +3,6 @@ name: java-buildpack
 templates: {}
 
 packages:
-- buildpack_java
+- java-buildpack
 
 properties: {}
