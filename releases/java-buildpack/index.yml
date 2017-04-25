@@ -12,4 +12,6 @@ builds:
     version: '3.14'
   1cdd854e-012e-49bd-acb3-9b753f18e98b:
     version: '3.15'
+  d1d8320b-ea9c-406d-a5d4-c844b4c2208e:
+    version: '3.16'
 format-version: '2'
