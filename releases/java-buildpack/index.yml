@@ -14,4 +14,6 @@ builds:
     version: '3.15'
   d1d8320b-ea9c-406d-a5d4-c844b4c2208e:
     version: '3.16'
+  399364fa-8e8a-4a4a-86ad-ac41ac5d1afa:
+    version: '3.17'
 format-version: '2'
