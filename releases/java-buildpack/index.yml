@@ -18,4 +18,6 @@ builds:
     version: '3.17'
   da890326-a6c2-42e6-a530-7693ea2bef73:
     version: '3.18'
+  88f67d77-8c34-4c05-a9a0-f286086c1393:
+    version: '3.19'
 format-version: '2'
