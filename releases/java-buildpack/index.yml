@@ -20,4 +20,6 @@ builds:
     version: '3.18'
   88f67d77-8c34-4c05-a9a0-f286086c1393:
     version: '3.19'
+  a6db14d1-6107-4a6f-b530-acc51ae9a39e:
+    version: '4.5'
 format-version: '2'
