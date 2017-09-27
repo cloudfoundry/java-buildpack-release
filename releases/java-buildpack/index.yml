@@ -22,4 +22,6 @@ builds:
     version: '3.19'
   a6db14d1-6107-4a6f-b530-acc51ae9a39e:
     version: '4.5'
+  06dfd8fd-8ec3-4e42-8c0e-e7d6bc4ed8d0:
+    version: 4.5.1
 format-version: '2'
