@@ -26,4 +26,6 @@ builds:
     version: 4.5.1
   ed88f208-30d2-4f9d-8e6a-40663b521536:
     version: 4.5.2
+  84598d9f-5da2-4cbc-98d7-27c336c21239:
+    version: '4.6'
 format-version: '2'
