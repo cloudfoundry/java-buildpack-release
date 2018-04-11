@@ -11,6 +11,8 @@ builds:
     version: "3.17"
   4ce59350-a0fb-4816-bdb7-1eda969ce071:
     version: "3.13"
+  54b000a2-acfc-42e4-53f5-1603bb221308:
+    version: "4.10"
   57d7fefd-cd31-4d80-5770-6c5b1abf64b7:
     version: "4.9"
   5805c33f-6a27-4e58-b897-845315c4b89b:
