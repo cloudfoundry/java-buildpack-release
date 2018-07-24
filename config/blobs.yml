@@ -1,4 +1,4 @@
-java-buildpack/java-buildpack-v4.13.zip:
-  size: 208127
-  object_id: ddc1b137-967f-439b-6a4b-0feaa4c5feaf
-  sha: 2813e9b2ff6919c879619527ea01bcac4193c754
+java-buildpack/java-buildpack-v4.13.1.zip:
+  size: 208128
+  object_id: 6189ea1e-0500-49fc-575d-6f069a9dcddb
+  sha: 057a2023a516edb885fa92bef5fb5373b23ff316
