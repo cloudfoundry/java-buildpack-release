@@ -1,4 +1,4 @@
 ---
 name: java-buildpack-cflinuxfs2
 files:
-- java-buildpack/java-buildpack-cflinuxfs2-v*.zip
+- java-buildpack/java-buildpack-v*.zip

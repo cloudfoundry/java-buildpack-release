@@ -1,2 +1,9 @@
 set -e -x
-cp java-buildpack/java-buildpack-*.zip ${BOSH_INSTALL_TARGET}
+
+old_name="$(echo java-buildpack/java-buildpack*.zip)"
+echo "stack: cflinuxfs2" > manifest.yml
+trap "rm manifest.yml" EXIT
+name_with_stack="${old_name//-buildpack/-buildpack-cflinuxfs2}"
+zip "$old_name" manifest.yml
+
+cp java-buildpack/java-buildpack-*.zip "${BOSH_INSTALL_TARGET}/$(basename $name_with_stack)"
