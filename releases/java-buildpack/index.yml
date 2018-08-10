@@ -19,6 +19,8 @@ builds:
     version: "4.9"
   5805c33f-6a27-4e58-b897-845315c4b89b:
     version: "3.11"
+  639dd854-064b-4e06-53cb-24b9fc565c87:
+    version: "4.15"
   7f2c855b-7c90-47c2-52a1-201cb179e881:
     version: "4.12"
   84598d9f-5da2-4cbc-98d7-27c336c21239:
