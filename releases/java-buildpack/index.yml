@@ -1,6 +1,8 @@
 builds:
   06dfd8fd-8ec3-4e42-8c0e-e7d6bc4ed8d0:
     version: 4.5.1
+  155821d3-cd76-43c0-7673-7906c0e7476a:
+    version: "4.18"
   1cdd854e-012e-49bd-acb3-9b753f18e98b:
     version: "3.15"
   22a49080-dbd7-4fac-74a5-38f8f2f03fb2:
