@@ -3,7 +3,6 @@ name: java-buildpack
 templates: {}
 
 packages:
-- java-buildpack-cflinuxfs2
 - java-buildpack-cflinuxfs3
 
 properties: {}
