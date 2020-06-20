@@ -1,6 +1,8 @@
 builds:
   06dfd8fd-8ec3-4e42-8c0e-e7d6bc4ed8d0:
     version: 4.5.1
+  078c0d08-9525-4615-64b0-249f15c0b02b:
+    version: 4.31.1
   10a76186-86b7-4116-640a-990da3e38c05:
     version: "4.22"
   155821d3-cd76-43c0-7673-7906c0e7476a:
