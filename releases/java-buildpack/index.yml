@@ -85,4 +85,6 @@ builds:
     version: "4.21"
   ed88f208-30d2-4f9d-8e6a-40663b521536:
     version: 4.5.2
+  fefda227-4ffe-49ea-7c06-421e3e10e1a4:
+    version: "4.32"
 format-version: "2"
