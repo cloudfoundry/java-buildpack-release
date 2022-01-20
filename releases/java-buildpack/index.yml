@@ -99,6 +99,8 @@ builds:
     version: "3.14"
   c165d310-c8be-4f7c-4043-a4c95964bd69:
     version: "4.29"
+  c201bc73-1dbc-43d9-7c42-059152c89223:
+    version: "4.48"
   cd92c444-971a-4d3d-5d9f-73daf66a14c5:
     version: 4.13.1
   d1d8320b-ea9c-406d-a5d4-c844b4c2208e:
