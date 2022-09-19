@@ -1,0 +1,4 @@
+---
+name: java-buildpack-cflinuxfs4
+files:
+- java-buildpack/java-buildpack-v*.zip
