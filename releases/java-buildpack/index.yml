@@ -117,6 +117,8 @@ builds:
     version: "3.16"
   d45a21be-771c-4315-71cb-551c91a4e5f3:
     version: "4.51"
+  d7f36f7f-a55e-4581-59d3-04c5933818c3:
+    version: "4.54"
   d8aec1de-48ef-4328-6bcb-11cdb41c4147:
     version: 4.48.2
   da890326-a6c2-42e6-a530-7693ea2bef73:
