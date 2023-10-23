@@ -5,6 +5,8 @@ builds:
     version: 4.31.1
   09da5627-cda5-4d82-656f-44878f03cb60:
     version: "4.34"
+  0f8002c5-f453-4806-62ef-e85fc7a259ee:
+    version: 4.63.0
   10a76186-86b7-4116-640a-990da3e38c05:
     version: "4.22"
   131efb74-4523-4562-49e8-ced2be1a42dd:
