@@ -1,0 +1,27 @@
+name: java-buildpack
+version: 4.65.0
+commit_hash: "3291635"
+uncommitted_changes: false
+jobs:
+- name: java-buildpack
+  version: 01b3924ae0da4c0164d77609c871d53bd72d736fcb33ae3c492f1f2a0545ca3f
+  fingerprint: 01b3924ae0da4c0164d77609c871d53bd72d736fcb33ae3c492f1f2a0545ca3f
+  sha1: sha256:3ba499e2e87ac3f884759e3e43f3e80f497cc670f5245684553d48693ae5dae1
+  packages:
+  - java-buildpack-cflinuxfs3
+  - java-buildpack-cflinuxfs4
+packages:
+- name: java-buildpack-cflinuxfs3
+  version: 79af6925bbf1d51ddbcb9bac9e3ec2a325cd91ca45c6a2056d7aaf4ee7d4a289
+  fingerprint: 79af6925bbf1d51ddbcb9bac9e3ec2a325cd91ca45c6a2056d7aaf4ee7d4a289
+  sha1: sha256:f02c3c7b323a73e2e5b168d54bce667304f4f892721501fba73a07531ec99f9b
+  dependencies: []
+- name: java-buildpack-cflinuxfs4
+  version: 09d3d288a47bd881c768d7ce34955ba2be79f41f7638321c24e0f96baa38de62
+  fingerprint: 09d3d288a47bd881c768d7ce34955ba2be79f41f7638321c24e0f96baa38de62
+  sha1: sha256:08e07f86d42db9883011c690baa22dc61f271e413aefd1ab9609d4a4116df256
+  dependencies: []
+license:
+  version: a5d58e13b57713b74cb735242be2d0b4990ce573e570b799d0914d9223442537
+  fingerprint: a5d58e13b57713b74cb735242be2d0b4990ce573e570b799d0914d9223442537
+  sha1: sha256:80a03ea342160263cd60ffa4a37625eb1a7cbb6129e0403f02c7732f4c181cf2
