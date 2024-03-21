@@ -1,4 +1,4 @@
-java-buildpack/java-buildpack-v4.67.0.zip:
-  size: 253113
-  object_id: 267ba4c1-75d4-4d22-705c-d052b3542ada
-  sha: sha256:548d2d7e0ff526250fbfdb37634fe1af5956d2bb54d31b46b1fcdb463c911935
+java-buildpack/java-buildpack-v4.67.1.zip:
+  size: 253122
+  object_id: 5b44fde3-672d-46ee-73f7-4d044188c296
+  sha: sha256:5d4b4421144bd3f2f2dc5401eb32349f2db8b9cacb46e5121e29ca9d2392b10e
