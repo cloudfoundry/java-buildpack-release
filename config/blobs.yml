@@ -2,3 +2,7 @@ java-buildpack/java-buildpack-v4.76.0.zip:
   size: 253262
   object_id: 33503a0a-704a-4549-608b-04b3d4dc728d
   sha: sha256:013f2f4bf0ae0f9cfcd4746a6023d825985121ab70b96f8c21bd6608c5adba8a
+java-buildpack/java_buildpack-cflinuxfs4-v4.77.0.zip:
+  size: 253254
+  object_id: 0cc13338-209d-46ed-6147-326f9981dc50
+  sha: sha256:c52e48eb36febf1cb504ce653c2fda469f91719d086b37b2ff21ac1ac5833c44
