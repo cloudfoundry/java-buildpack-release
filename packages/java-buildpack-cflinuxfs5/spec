@@ -1,0 +1,4 @@
+---
+name: java-buildpack-cflinuxfs5
+files:
+- java-buildpack/java?buildpack-cflinuxfs5-v*.zip
