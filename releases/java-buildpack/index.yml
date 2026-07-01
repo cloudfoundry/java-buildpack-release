@@ -55,6 +55,8 @@ builds:
     version: "3.10"
   399364fa-8e8a-4a4a-86ad-ac41ac5d1afa:
     version: "3.17"
+  3de3aed2-6eda-4e4f-6c4c-916380a62fdf:
+    version: 5.0.5
   48aba49e-63f8-4840-7f24-58414a24900b:
     version: "4.26"
   4ce59350-a0fb-4816-bdb7-1eda969ce071:
