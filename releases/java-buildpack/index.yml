@@ -23,6 +23,8 @@ builds:
     version: "4.56"
   16b5708f-5ab5-4b68-5a6f-3b756b8cd3d8:
     version: 4.69.0
+  16be3ff4-e241-451e-43bf-cb297bffafaf:
+    version: 5.0.6
   1c3c1cea-e1d3-4e93-451e-60c59a2fa216:
     version: "4.31"
   1cdd854e-012e-49bd-acb3-9b753f18e98b:
