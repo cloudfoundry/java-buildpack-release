@@ -1,8 +1,8 @@
-java-buildpack/java_buildpack-cflinuxfs4-v5.0.6.zip:
-  size: 7468902
-  object_id: 9d391886-bd43-4c17-72d1-d4edd9632a3e
-  sha: sha256:19bf81b105c121619c8e5cb8d547c7bafda853156eb69ee5de036f089663ea63
-java-buildpack/java_buildpack-cflinuxfs5-v5.0.6.zip:
-  size: 7468904
-  object_id: 9fb73ca2-21ef-4faf-659c-f78281a9fb00
-  sha: sha256:0206ff6abd3357cc72f3cf9ef77f0aa1d5dfbcd2ba27e0772372706a4416909b
+java-buildpack/java_buildpack-cflinuxfs4-v5.0.7.zip:
+  size: 7463773
+  object_id: af233fdc-a394-4eec-5735-4081945dc59e
+  sha: sha256:e4977d0f5d6e7ca3c82b5f1db22f52938c53eddb774612f5308edf451bdfb592
+java-buildpack/java_buildpack-cflinuxfs5-v5.0.7.zip:
+  size: 7463779
+  object_id: 870b5c30-640d-4a5d-4443-98d28dc7b1f3
+  sha: sha256:e238a28eb1ddf2cee893cf135fa42e555d5c6e1fd6b896ba0914bf1b72d1adc5
