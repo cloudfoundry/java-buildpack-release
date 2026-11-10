@@ -151,6 +151,8 @@ builds:
     version: "4.40"
   b425d928-6280-49d8-5052-f8b1d3d468cd:
     version: "4.19"
+  b4fbf8d7-9bae-4d88-5775-ed558c11b8ca:
+    version: 5.1.2
   b68192b8-214e-4721-41ea-51ccdd9630b1:
     version: 4.68.0
   b732630b-1a3e-474e-5046-ef7c9c606d53:
